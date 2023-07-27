@@ -2,6 +2,10 @@
 
 서비스 링크 : http://flatland.shop
 
+FE-Repository : https://github.com/CowDogHome/Clone-FE
+
+BE-Repository : https://github.com/CowDogHome/Clone-BE
+
 ### FE 팀원
 
   <a href="https://github.com/Haru-Im">
